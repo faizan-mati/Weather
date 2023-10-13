@@ -26,7 +26,7 @@ function App() {
       // Clear any previous error if a new request is successful
       setError(null);
     } catch (error) {
-      alert("Please check the city name.");
+      alert("Please check the city .");
     }
   };
 
